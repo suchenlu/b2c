@@ -19,6 +19,7 @@ $(function() {
 						if ($(document).scrollTop() > 660) {
 							$("#float_window").show();
 							$(".sidebar").addClass("top_h")
+							placeholderSupport();
 						} else {
 							$("#float_window").hide();
 							$(".sidebar").removeClass("top_h")
