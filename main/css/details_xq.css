@@ -6,7 +6,7 @@ a,button,input{outline: medium none !important;}
 .main{width: 1180px;margin: 0 auto;}
 /*搜索项目*/
 .all_seek{margin-top: 20px;}
-.main .all_seek .seek_1{width: 1180px;height: 50px;clear: both;}
+.main .all_seek .seek_1{width: 1180px;height: 50px;+height:auto;clear: both;}
 .main .all_seek .seek_1 span.s{width: auto;float: left;text-align: right;color: #666;display: block;height: 40px;line-height: 40px;font-size: 16px}
 .main .all_seek .seek_1 a.a_1,.all_seek .seek_1 a.a_2,.all_seek .seek_1 a.a_3{float: right;width: 80px;text-align: center;color: #666;}
 .main .all_seek .seek_1 a.a_2,.main .all_seek .seek_1 a.a_3{border: 1px solid #FF931A;color: #FF931A;border-radius: 5px;margin-top: 10px;}
