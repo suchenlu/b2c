@@ -111,6 +111,7 @@
     font-size:30px;
     display:inline-block;
     margin-top: 28px;
+    +float:left;
 }
 .information ul{
     float:right;
