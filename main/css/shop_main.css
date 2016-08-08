@@ -110,7 +110,7 @@
 .information .shop_name{
     font-size:30px;
     display:inline-block;
-    margin-top: 28px;
+    line-height: 92px;
     +float:left;
 }
 .information ul{
