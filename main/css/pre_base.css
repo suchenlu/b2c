@@ -821,7 +821,7 @@ box-shadow: 0px 4px 10px #666;
 .choose label span {
 	position: absolute;
 	width: 60px;
-	top: 3px;
+	+top: 3px;
 	left: 20px;
 }
 
