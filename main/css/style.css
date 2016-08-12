@@ -70,7 +70,7 @@
 #login .important form .form_word span{font-size: 18px;color: #8f8f8f;}
 #login .important form .form_word en{font-size: 14px;color: #8f8f8f;float: right;}
 #login .important form .form_word a{font-size: 14px;color: #0eb1ff;margin-left: 5px;}
-#login .important form input.a,.important form input.b{width: 100%;height: 39px;margin-top: 25px;border-radius: 5px;
+#login .important form input.a,.important form input.b{width: 100%;height: 39px;margin-top: 25px;border-radius: 5px;line-height: 39px;
 -webkit-box-shadow:inset 0 1px 2px rgba(0,0,0,0.5);
 -moz-box-shadow:inset 0 1px 2px rgba(0,0,0,0.5);
 box-shadow:inset 0 1px 2px rgba(0,0,0,0.5);}
