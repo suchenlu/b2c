@@ -42,7 +42,7 @@
 						<span>用户登录</span>
 						<en>没有账户可<a href="javascript:;">注册</a></en>
 						<input class="a" placeholder=" 请输入手机号或邮箱地址" type="text" value="">
-						<input class="b" placeholder=" 请输入登录密码" type="password" value="">
+						<input class="b" placeholder=" 请输入登录密码" type="password" value="" onfocus="if (value =='请输入登录密码'){value =''}" onblur="if (value ==''){value='请输入登录密码'}">
 						<input class="s" placeholder=" 请输入验证码" type="text" value="">
 						<input type="button" class="d" value="这里是动态验证码">
 						<input class="submit" id="submit" name="submit" type="submit" value="登录">
