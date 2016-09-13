@@ -1,0 +1,90 @@
+*{margin: 0;padding: 0;border: 0;list-style: none;font-family: "Microsoft Yahei";font-size: 13px;}
+a,a:focus,a:hover {text-decoration: none;cursor: pointer;}
+a,button,input{outline: medium none !important;}
+img{display: block;}
+
+.main{width: 1180px;margin: 0 auto;}
+/*搜索项目*/
+.main .all_seek{width: 1180px;margin: 0 auto;}
+.main .all_seek .seek_1{width: 1180px;height: 32px;clear: both;}
+.main .all_seek .seek_1 div{float: left;margin-left: 5px;color: #666;}
+.main .all_seek .seek_1 div span{border: 1px solid #ccc;padding: 1px 1px;}
+.main .all_seek .seek_1 div span en{color: #FF931A;}
+.main .all_seek .seek_1 div span a{color: #FF931A;font-size: 13px;padding: 0px 5px 0 10px;}
+.main .all_seek .seek_1 span.s{width: auto;float: left;text-align: right;color: #666;display: block;}
+.main .all_seek .seek_1 span.s en.en_1{margin-left: 25px;}
+.main .all_seek .seek_1 a.a_1,.all_seek .seek_1 a.a_2,.all_seek .seek_1 a.a_3{float: right;width: 80px;text-align: center;color: #666;}
+.main .all_seek .seek_1 a.a_2,.main .all_seek .seek_1 a.a_3{border: 1px solid #FF931A;color: #FF931A;border-radius: 5px;}
+.main .all_seek .seek_1 a.a_3{display: none;}
+.main .all_seek .seek_1 a.a_1:hover{color: #FF931A;}
+.main .all_seek .seek_1 ul{width: 1000px;float: left;height: 32px;overflow: hidden;}
+.main .all_seek .seek_1 ul li{float: left;padding: 0 5px;cursor: pointer;height: 32px;}
+.main .all_seek .seek_1 ul li a{color: #666;}
+.main .all_seek .seek_1 ul li a:hover,.all_seek .seek_1 ul li a:focus{color: #ff931a;}
+.main .all_seek .seek_1 input{border: 1px solid #ccc;line-height: 20px;}
+.main .all_seek .seek_1 input#begin{margin-left: 10px;}
+/*搜索项目结束*/
+/*排序选项*/
+.main .sort{width: 100%;margin: 0 auto;height: 70px;line-height: 70px;border-bottom: 1px solid #f4f4f4;border-top: 1px solid #f4f4f4;}
+.main .sort div{width: 100%;line-height: 30px;margin-top: 20px;background: #fafafa;}
+.main .sort div span{color: #666;margin-left: 10px;}
+.main .sort div a{float: right;color: #666;padding: 0 20px;border-right: 1px solid #f4f4f4;}
+.main .sort div a:hover{color: #ff931a;}
+/*排序选项结束*/
+/*产品列表*/
+.main .con_l{width: 1180px;margin: 0 auto;}
+.main .con_l ul{margin-left: 8px;}
+.main .con_l ul li{width: 273px;height: 248px;float: left;padding: 10px 9px;}
+.main .con_l ul li .jl{width: 273px;height: 248px;border: 1px solid #f4f4f4;position: relative;}
+.main .con_l ul li .jl:hover{box-shadow: 0 4px 10px #666;}
+.main .con_l ul li .jl .jl_t{width: 273px;height: 160px;margin: 0 auto;position: relative;}
+.main .con_l ul li .jl .jl_t a .jl_img{width: 273px;height: 160px;overflow: hidden;}
+.main .con_l ul li .jl .jl_t a .jl_img img{width: 273px;height: 160px;}
+.main .con_l ul li .jl .jl_t a img:hover{transform:scale(1.4);-webkit-transform:scale(1.4);-moz-transform:scale(1.4);-o-transform:scale(1.4);transition: all 1s ease-in-out;}
+.main .con_l ul li .jl .jl_t a span img{width: 50px;height: 50px;border-radius: 100%;margin-left: 20px;position: absolute;top: 126px;z-index: 3;}
+.main .con_l ul li .jl .jl_b{width: 273px;margin: 0 auto;margin-top: 2px;}
+.main .con_l ul li .jl .jl_b .jl_b_l{float: left;margin-left: 15px;}
+.main .con_l ul li .jl .jl_b .jl_b_l p{padding: 1px 0;color: #666;width: 250px;}
+.main .con_l ul li .jl .jl_b .jl_b_l p.p1{color: #fb833f;text-align: right;}
+.main .con_l ul li .jl .jl_b .jl_b_l p.p1 en{font-size: 15px;}
+/*产品列表结束*/
+/*分页器*/
+.main .pagination{width: 1180px;margin: 0 auto;float: left;height: 40px;line-height: 40px;border-bottom: 1px solid #ccc;margin-bottom: 100px;margin-top: 20px;}
+.main .pagination ul{width: auto;height: 20px;line-height: 20px;float: right;}
+.main .pagination ul li{float: left;padding: 0 5px;color: #666;}
+.main .pagination ul li a{border: 1px solid #ccc;border-radius: 5px;padding: 2px 5px;color: #666;}
+.main .pagination ul li input{width: 30px;border: 1px solid #ccc;margin: 0 2px;}
+.main .pagination ul li a:hover,.pagination ul li input:hover{border: 1px solid #FF931A;color: #FF931A;}
+.main .pagination ul li a.page:focus{border: 1px solid #FF931A;color: #FF931A;}
+/*分页器结束*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
